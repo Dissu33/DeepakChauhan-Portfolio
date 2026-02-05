@@ -1,0 +1,167 @@
+export const navItems = [
+  { name: "About", link: "#about" },
+  { name: "Projects", link: "#projects" },
+  { name: "Experience", link: "#experience" },
+  { name: "Contact", link: "#contact" },
+];
+
+export const gridItems = [
+  {
+    id: 1,
+    title: "Building scalable web applications with focus on performance and user experience",
+    description: "",
+    className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
+    imgClassName: "w-full h-full",
+    titleClassName: "justify-end",
+    img: "/b1.svg",
+    spareImg: "",
+  },
+  {
+    id: 2,
+    title: "Open to remote opportunities and flexible collaboration",
+    description: "",
+    className: "lg:col-span-2 md:col-span-3 md:row-span-2",
+    imgClassName: "",
+    titleClassName: "justify-start",
+    img: "",
+    spareImg: "",
+  },
+  {
+    id: 3,
+    title: "My tech stack",
+    description: "Full Stack & Modern Tools",
+    className: "lg:col-span-2 md:col-span-3 md:row-span-2",
+    imgClassName: "",
+    titleClassName: "justify-center",
+    img: "",
+    spareImg: "",
+  },
+  {
+    id: 4,
+    title: "Passionate about creating efficient, production-ready applications",
+    description: "",
+    className: "lg:col-span-2 md:col-span-3 md:row-span-1",
+    imgClassName: "",
+    titleClassName: "justify-start",
+    img: "/grid.svg",
+    spareImg: "/b4.svg",
+  },
+
+  {
+    id: 5,
+    title: "B.Tech in Computer Science (2021-2025)",
+    description: "Education",
+    className: "md:col-span-3 md:row-span-2",
+    imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
+    titleClassName: "justify-center md:justify-start lg:justify-center",
+    img: "/b5.svg",
+    spareImg: "/grid.svg",
+  },
+  {
+    id: 6,
+    title: "Ready to collaborate on your next project?",
+    description: "",
+    className: "lg:col-span-2 md:col-span-3 md:row-span-1",
+    imgClassName: "",
+    titleClassName: "justify-center md:max-w-full max-w-60 text-center",
+    img: "",
+    spareImg: "",
+  },
+];
+
+export const projects = [
+  {
+    id: 1,
+    title: "DealZone - Deal Management Platform",
+    des: "Role-based platform enabling deal creation between paying and receiving parties with admin monitoring panel for transparency and controlled deal flow.",
+    img: "/p1.svg",
+    iconLists: ["/re.svg", "/tail.svg", "/next.svg", "/ts.svg", "/fm.svg"],
+    link: "https://deel-zone.vercel.app/",
+  },
+  {
+    id: 2,
+    title: "Fast React Pizza",
+    des: "Modern pizza ordering application built with Next.js and Tailwind CSS, featuring a seamless user experience and responsive design.",
+    img: "/p2.svg",
+    iconLists: ["/re.svg", "/next.svg", "/tail.svg", "/ts.svg"],
+    link: "https://fast-reactt-pizzaa.netlify.app/",
+  },
+];
+
+export const testimonials: {
+  quote: string;
+  name: string;
+  title: string;
+}[] = [];
+
+export const companies = [
+  {
+    id: 1,
+    name: "React",
+    img: "/re.svg",
+    nameImg: "/re.svg",
+  },
+  {
+    id: 2,
+    name: "Node.js",
+    img: "/nodejs.svg",
+    nameImg: "/nodejs.svg",
+  },
+  {
+    id: 3,
+    name: "MongoDB",
+    img: "/mongodb.svg",
+    nameImg: "/mongodb.svg",
+  },
+  {
+    id: 4,
+    name: "Tailwind",
+    img: "/tail.svg",
+    nameImg: "/tail.svg",
+  },
+  {
+    id: 5,
+    name: "GitHub",
+    img: "/git.svg",
+    nameImg: "/git.svg",
+  },
+];
+
+export const workExperience = [
+  {
+    id: 1,
+    title: "Full Stack Developer",
+    desc: "Built production-ready web applications using MongoDB, Express.js, React, and Node.js with focus on scalability and performance.",
+    className: "md:col-span-2",
+    thumbnail: "/exp1.svg",
+  },
+  {
+    id: 2,
+    title: "Full-Stack Development",
+    desc: "Designed and implemented RESTful APIs, database schemas, and responsive frontends for real-world applications.",
+    className: "md:col-span-2",
+    thumbnail: "/exp2.svg",
+  },
+  {
+    id: 3,
+    title: "API Design & Integration",
+    desc: "Developed robust REST APIs using Node.js and Express.js, ensuring seamless frontend-backend communication.",
+    className: "md:col-span-2",
+    thumbnail: "/exp3.svg",
+  },
+  {
+    id: 4,
+    title: "Database Management",
+    desc: "Managed MongoDB databases with optimized schemas and queries for efficient data storage and retrieval.",
+    className: "md:col-span-2",
+    thumbnail: "/exp4.svg",
+  },
+];
+
+export const socialMedia = [
+  {
+    id: 1,
+    img: "/git.svg",
+    link: "https://github.com/Dissu33",
+  },
+];
