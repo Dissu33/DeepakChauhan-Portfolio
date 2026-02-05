@@ -74,7 +74,7 @@ export const projects = [
     id: 1,
     title: "DealZone - Deal Management Platform",
     des: "Role-based platform enabling deal creation between paying and receiving parties with admin monitoring panel for transparency and controlled deal flow.",
-    img: "/p1.svg",
+    img: "/dealzone.png",
     iconLists: ["/re.svg", "/tail.svg", "/next.svg", "/ts.svg", "/fm.svg"],
     link: "https://deel-zone.vercel.app/",
   },
@@ -82,9 +82,17 @@ export const projects = [
     id: 2,
     title: "Fast React Pizza",
     des: "Modern pizza ordering application built with Next.js and Tailwind CSS, featuring a seamless user experience and responsive design.",
-    img: "/p2.svg",
+    img: "/pizza.png",
     iconLists: ["/re.svg", "/next.svg", "/tail.svg", "/ts.svg"],
     link: "https://fast-reactt-pizzaa.netlify.app/",
+  },
+  {
+    id: 3,
+    title: "Portfolio Website",
+    des: "Personal portfolio showcasing projects and skills, built with Next.js, TypeScript, Tailwind CSS, and Framer Motion for smooth animations.",
+    img: "/portfolio.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/fm.svg"],
+    link: "https://deepak-chauhan-portfolio-flax.vercel.app/",
   },
 ];
 
