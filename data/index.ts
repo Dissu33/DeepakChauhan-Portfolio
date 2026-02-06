@@ -99,12 +99,12 @@ export const projects = [
   },
   {
     id: 4,
-    title: "Fast React Pizza",
-    des: "Modern pizza ordering application built with Next.js and Tailwind CSS, featuring a seamless user experience and responsive design.",
-    img: "/pizza.png",
-    bg: "",
-    iconLists: ["/re.svg", "/next.svg", "/tail.svg", "/ts.svg"],
-    link: "https://fast-reactt-pizzaa.netlify.app/",
+    title: "StyleNest - Beauty Services Marketplace",
+    des: "A premium beauty services platform featuring expert booking, smooth animations with Framer Motion and Lenis, and a modern glassmorphism UI.",
+    img: "/style-nest.png",
+    bg: "/style-nest.png",
+    iconLists: ["/re.svg", "/tail.svg", "/fm.svg"],
+    link: "https://style-nest-ten.vercel.app/",
   },
 ];
 
