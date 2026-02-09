@@ -21,6 +21,9 @@ export const metadata: Metadata = {
     "Deepak Chauhan Web Developer"
   ],
   authors: [{ name: "Deepak Chauhan" }],
+  verification: {
+    google: "C8zwPLeRq5EYqrgrcqDDR6Zep_9vQRvaohWR_Fw62y4",
+  },
   openGraph: {
     title: "Deepak Chauhan | Full Stack Developer Portfolio",
     description: "Deepak Chauhan - Full Stack Developer from Tosham, Haryana. Passionate about building scalable web applications. Student at CGC Landran.",
