@@ -83,7 +83,7 @@ export const BentoGridItem = ({
           {img && (
             <img
               src={img}
-              alt={img}
+              alt={typeof title === 'string' ? title : "Deepak Chauhan Portfolio Content"}
               className={cn(imgClassName, "object-cover object-center ")}
             />
           )}

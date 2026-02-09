@@ -8,8 +8,8 @@ export const navItems = [
 export const gridItems = [
   {
     id: 1,
-    title: "Building scalable web applications with focus on performance and user experience",
-    description: "",
+    title: "Deepak Chauhan - Building scalable web applications with focus on performance and user experience",
+    description: "Full Stack Developer based in Tosham",
     className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
     imgClassName: "w-full h-full",
     titleClassName: "justify-end",
@@ -49,8 +49,8 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "B.Tech in Computer Science (2021-2025)",
-    description: "Education",
+    title: "B.Tech in Computer Science at CGC Landran (2021-2025)",
+    description: "Education & Academic Background",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
     titleClassName: "justify-center md:justify-start lg:justify-center",
@@ -183,5 +183,15 @@ export const socialMedia = [
     id: 1,
     img: "/git.svg",
     link: "https://github.com/Dissu33",
+  },
+  {
+    id: 2,
+    img: "/link.svg",
+    link: "https://www.linkedin.com/in/deepak-chauhan-a67a4a396",
+  },
+  {
+    id: 3,
+    img: "/insta.svg",
+    link: "https://www.instagram.com/dpx.k",
   },
 ];

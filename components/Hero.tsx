@@ -57,7 +57,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi, I&apos;m Deepak Chauhan — a Full Stack Developer with 1.5+ years of experience building scalable applications.
+            Hi, I&apos;m Deepak Chauhan — a Full Stack Developer from Tosham, Haryana, currently pursuing B.Tech at CGC Landran.
           </p>
 
           <a href="#about">
