@@ -1,11 +1,6 @@
 # Deepak Chauhan - Modern Portfolio
 
 <div align="center">
-  <br />
-    <a href="https://deepak-chauhan-portfolio-flax.vercel.app/" target="_blank">
-      <img src="/portfolio.png" alt="Project Banner" onerror="this.src='https://raw.githubusercontent.com/Dissu33/portfolio/main/public/portfolio.png'">
-    </a>
-  <br />
 
   <div>
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
@@ -70,8 +65,8 @@ Follow these steps to set up the project locally.
 **Cloning & Installation**
 
 ```bash
-git clone https://github.com/Dissu33/portfolio.git
-cd portfolio
+git clone https://github.com/Dissu33/DeepakChauhan-Portfolio.git
+cd DeepakChauhan-Portfolio
 npm install
 ```
 
